@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b8c7c2f-3e08-4bc6-a928-4e8ad375f806" name="DSG COMPLEX VPS">
+        <fileTransfer accessType="SFTP" host="45.153.190.119" port="22" sshConfigId="b4b13195-206c-48df-87a1-b2d34836d301" sshConfig="root@45.153.190.119:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

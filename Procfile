@@ -1,0 +1,1 @@
+worker: cd .venv && python bot.py 
